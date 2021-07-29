@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.1, 2021-07-29T19:24:48. -->
+<!-- Written by QtCreator 4.11.1, 2021-07-29T19:31:53. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -302,8 +302,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/luyao/qtProgram/ipeppa/ipeppa.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/luyao/qtProgram/ipeppa/ipeppa.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ipeppa2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/luyao/Workspace/cpp/qclient/ipeppa.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/luyao/Workspace/cpp/qclient/ipeppa.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
